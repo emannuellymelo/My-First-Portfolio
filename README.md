@@ -1,2 +1,2 @@
 # Portfolio
-Fazendo um portfólio com html, css e javascript
+Constructing my portfolio with html, css and javascript
