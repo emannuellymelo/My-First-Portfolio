@@ -5,5 +5,5 @@ Constructing my portfolio with html, css and javascript
 
 :package: new funcionality
 :up: update
-:beatle: bug correction
+:beetle: bug correction
 :checkered_flag: release
