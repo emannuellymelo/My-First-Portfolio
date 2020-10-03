@@ -1,5 +1,5 @@
 # Portfolio
-Constructing my portfolio with html, css and javascript
+Constructing my portfolio with html and css.
 
 ## Icons
 
